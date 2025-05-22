@@ -1,0 +1,107 @@
+body {
+    background-image: url(../image/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.link1 {
+    position: absolute;
+    bottom: 6.01px;
+    left: 720px;
+}
+
+.logo1 {
+    position: absolute;
+    bottom: 250px;
+    right: 595px;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: #99c35f;
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color: #ffc756e2;
+    position: absolute;
+    right: 568px;
+    top: 60px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: rgb(103, 187, 51);
+  }
+
+  .ladybug {
+    position: absolute;
+    top: 52px;
+    right: 560px;
+  }
+
+  .box {
+    position: absolute;
+    width: 150px;
+    height: 575px;
+    border: 5px solid;
+    border-radius: 10px;
+    font-size: 35px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    background-image: url(../image/wood.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    right: 10px;
+    bottom: 210px;
+  }
+
+  .menu {
+    position: absolute;
+    right: 25px;
+    top: 195px;
+    border-style: dotted;
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+    border-color: rgb(196, 137, 27);
+    padding: 3px;
+  }
+
+  .menuimg {
+    position: absolute;
+    right: 27px;
+    top: 212px;
+    height: 60px;
+    border-radius: 15px;
+  }
+
+  a:link {
+    color: brown;
+  }
+
+  a:hover {
+    color: rgb(64, 178, 75);
+  }
+
+  a:visited {
+    color: #32b53d;
+  }
+
+  a:active {
+    color: rgb(145, 251, 119);
+  }
